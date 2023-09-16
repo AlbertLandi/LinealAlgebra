@@ -1,5 +1,5 @@
-# LinealAlgebra
-A simple Power Iteration Java code with I/O via console. Made using Object Oriented Programming. It includes a Matrix Class that handles all mathematical calculus, 
+# LinearAlgebra
+A simple Power Iteration Java code with I/O via console, made using Object Oriented Programming. It includes a Matrix Class that handles all the Calculus, 
 and a Controller Class that contains the I/O logic. 
 
 ## What's Power Iteration?
